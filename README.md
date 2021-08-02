@@ -1,1 +1,3 @@
-# DS_study
+### 스터디원
+- hyeonsok
+- yeslee
