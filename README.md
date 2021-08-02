@@ -1,3 +1,3 @@
 ### 스터디원
-- hyeonsok
-- yeslee
+- <a href="https://github.com/ganadabang">hyeonsok</a>
+- <a href="https://github.com/yeslee-v">yeslee</a>
