@@ -18,5 +18,5 @@ Pair programming
 2. 스택
 - <a href="https://github.com/PAULSONG-git">psong</a>
 
-3. 스택
-- <a href="https://github.com/yeslee-v">sohan</a>
+3. 트리
+- <a href="https://github.com/todoni">sohan</a>
