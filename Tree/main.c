@@ -69,9 +69,10 @@ void    deleteBinTreeNode(BinTreeNode* pNode) // 이진 트리 노드 삭제
     {
         deleteBinTreeNode(pNode->pLeftChild);
         deleteBinTreeNode(pNode->pRightChild);
+        printf("%c free\n", pNode->data);
+        free(pNode);
+        pNode = NULL;
     }
-    free(pNode);
-    pNode = NULL;
 }
 
 void deleteBinTree(BinTree* pBinTree) // 이진 트리 삭제
