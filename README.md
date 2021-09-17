@@ -20,3 +20,15 @@ Pair programming
 
 3. 트리
 - <a href="https://github.com/todoni">sohan</a>
+
+4. 그래프
+- 개인 사정으로 수업 불참
+
+5. 그래프 알고리즘
+- <a href="https://github.com/3Cat-jaguar">ylee</a>
+- <a href="https://github.com/PAULSONG-git">psong</a>
+
+6. 정렬
+- <a href="https://github.com/3Cat-jaguar">ylee</a>
+- <a href="https://github.com/stopminbeom">mseo</a>
+- <a href="https://github.com/deftones88">ji-kim</a>
